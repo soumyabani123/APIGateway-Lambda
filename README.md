@@ -48,4 +48,3 @@ Infrastructure provisioning is done using Terraform and automated with GitHub Ac
 
 ---
 
-Let me know if you’d like the corresponding Terraform code, Lambda function (Python), and CI/CD GitHub Actions configuration added to this documentation.
